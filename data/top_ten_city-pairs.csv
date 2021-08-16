@@ -1,0 +1,291 @@
+Year,AustralianPort,ForeignPort,Country,Total Passengers
+1990,Sydney,Auckland,New Zealand,640795
+1990,Sydney,Tokyo,Japan,507493
+1990,Sydney,Singapore,Singapore,376317
+1990,Sydney,Honolulu,United States,320314
+1990,Perth,Singapore,Singapore,294189
+1990,Sydney,Los Angeles,United States,289626
+1990,Sydney,Hong Kong,Hong Kong SAR,288940
+1990,Melbourne,Singapore,Singapore,240444
+1990,Brisbane,Auckland,New Zealand,216974
+1990,Melbourne,Auckland,New Zealand,211247
+1991,Sydney,Auckland,New Zealand,638743
+1991,Sydney,Tokyo,Japan,480575
+1991,Sydney,Singapore,Singapore,367440
+1991,Sydney,Honolulu,United States,356762
+1991,Sydney,Los Angeles,United States,310649
+1991,Perth,Singapore,Singapore,287241
+1991,Sydney,Hong Kong,Hong Kong SAR,284785
+1991,Melbourne,Auckland,New Zealand,276369
+1991,Brisbane,Auckland,New Zealand,271090
+1991,Melbourne,Singapore,Singapore,227104
+1992,Sydney,Auckland,New Zealand,649921
+1992,Sydney,Tokyo,Japan,471013
+1992,Sydney,Los Angeles,United States,407425
+1992,Sydney,Singapore,Singapore,386984
+1992,Perth,Singapore,Singapore,309926
+1992,Sydney,Hong Kong,Hong Kong SAR,302311
+1992,Brisbane,Auckland,New Zealand,280318
+1992,Melbourne,Auckland,New Zealand,271780
+1992,Sydney,Honolulu,United States,246751
+1992,Melbourne,Singapore,Singapore,243272
+1993,Sydney,Auckland,New Zealand,646593
+1993,Sydney,Los Angeles,United States,463860
+1993,Sydney,Tokyo,Japan,452402
+1993,Sydney,Singapore,Singapore,401583
+1993,Sydney,Hong Kong,Hong Kong SAR,328521
+1993,Perth,Singapore,Singapore,326346
+1993,Brisbane,Auckland,New Zealand,316295
+1993,Melbourne,Auckland,New Zealand,290664
+1993,Melbourne,Singapore,Singapore,258538
+1993,Sydney,Christchurch,New Zealand,239089
+1994,Sydney,Auckland,New Zealand,661807
+1994,Sydney,Los Angeles,United States,564416
+1994,Sydney,Tokyo,Japan,484036
+1994,Sydney,Singapore,Singapore,449662
+1994,Sydney,Hong Kong,Hong Kong SAR,395433
+1994,Perth,Singapore,Singapore,357248
+1994,Brisbane,Auckland,New Zealand,333756
+1994,Melbourne,Auckland,New Zealand,294849
+1994,Melbourne,Singapore,Singapore,280881
+1994,Sydney,Christchurch,New Zealand,275813
+1995,Sydney,Auckland,New Zealand,720899
+1995,Sydney,Los Angeles,United States,584170
+1995,Sydney,Singapore,Singapore,473706
+1995,Sydney,Hong Kong,Hong Kong SAR,468561
+1995,Sydney,Tokyo,Japan,449589
+1995,Perth,Singapore,Singapore,383076
+1995,Brisbane,Auckland,New Zealand,356706
+1995,Melbourne,Auckland,New Zealand,321001
+1995,Melbourne,Singapore,Singapore,298549
+1995,Sydney,Christchurch,New Zealand,285990
+1996,Sydney,Auckland,New Zealand,781023
+1996,Sydney,Los Angeles,United States,635657
+1996,Sydney,Singapore,Singapore,509737
+1996,Sydney,Hong Kong,Hong Kong SAR,507044
+1996,Sydney,Tokyo,Japan,454957
+1996,Brisbane,Auckland,New Zealand,399390
+1996,Perth,Singapore,Singapore,378753
+1996,Melbourne,Auckland,New Zealand,337272
+1996,Sydney,Christchurch,New Zealand,298694
+1996,Melbourne,Singapore,Singapore,297420
+1997,Sydney,Auckland,New Zealand,749137
+1997,Sydney,Los Angeles,United States,703281
+1997,Sydney,Singapore,Singapore,562450
+1997,Sydney,Hong Kong,Hong Kong SAR,513448
+1997,Sydney,Tokyo,Japan,462183
+1997,Perth,Singapore,Singapore,423035
+1997,Brisbane,Auckland,New Zealand,389949
+1997,Melbourne,Auckland,New Zealand,354810
+1997,Melbourne,Singapore,Singapore,319438
+1997,Sydney,Osaka,Japan,288591
+1998,Sydney,Auckland,New Zealand,738759
+1998,Sydney,Los Angeles,United States,702705
+1998,Sydney,Singapore,Singapore,622026
+1998,Sydney,Hong Kong,Hong Kong SAR,562716
+1998,Perth,Singapore,Singapore,473772
+1998,Sydney,Tokyo,Japan,416230
+1998,Melbourne,Singapore,Singapore,415438
+1998,Brisbane,Auckland,New Zealand,398354
+1998,Melbourne,Auckland,New Zealand,376770
+1998,Sydney,Bangkok,Thailand,333657
+1999,Sydney,Auckland,New Zealand,780370
+1999,Sydney,Los Angeles,United States,763731
+1999,Sydney,Singapore,Singapore,702500
+1999,Sydney,Hong Kong,Hong Kong SAR,584048
+1999,Perth,Singapore,Singapore,549846
+1999,Melbourne,Singapore,Singapore,519168
+1999,Brisbane,Auckland,New Zealand,411104
+1999,Sydney,Bangkok,Thailand,400155
+1999,Sydney,Tokyo,Japan,399860
+1999,Melbourne,Auckland,New Zealand,395713
+2000,Sydney,Auckland,New Zealand,937056
+2000,Sydney,Singapore,Singapore,869802
+2000,Sydney,Los Angeles,United States,811149
+2000,Sydney,Hong Kong,Hong Kong SAR,668701
+2000,Perth,Singapore,Singapore,622826
+2000,Melbourne,Singapore,Singapore,582318
+2000,Brisbane,Auckland,New Zealand,463496
+2000,Melbourne,Auckland,New Zealand,435314
+2000,Sydney,Bangkok,Thailand,419370
+2000,Sydney,Tokyo,Japan,410337
+2001,Sydney,Auckland,New Zealand,1012766
+2001,Sydney,Singapore,Singapore,942288
+2001,Sydney,Los Angeles,United States,720778
+2001,Perth,Singapore,Singapore,659996
+2001,Melbourne,Singapore,Singapore,644591
+2001,Sydney,Hong Kong,Hong Kong SAR,607608
+2001,Melbourne,Auckland,New Zealand,522403
+2001,Brisbane,Auckland,New Zealand,489663
+2001,Sydney,Bangkok,Thailand,440270
+2001,Brisbane,Singapore,Singapore,409520
+2002,Sydney,Auckland,New Zealand,973117
+2002,Sydney,Singapore,Singapore,947649
+2002,Perth,Singapore,Singapore,683785
+2002,Sydney,Los Angeles,United States,667350
+2002,Melbourne,Singapore,Singapore,661916
+2002,Sydney,Hong Kong,Hong Kong SAR,587989
+2002,Melbourne,Auckland,New Zealand,503070
+2002,Sydney,Bangkok,Thailand,460306
+2002,Brisbane,Singapore,Singapore,450870
+2002,Brisbane,Auckland,New Zealand,443267
+2003,Sydney,Auckland,New Zealand,1137536
+2003,Sydney,Singapore,Singapore,917367
+2003,Perth,Singapore,Singapore,665063
+2003,Melbourne,Singapore,Singapore,625305
+2003,Sydney,Los Angeles,United States,612352
+2003,Brisbane,Singapore,Singapore,552094
+2003,Melbourne,Auckland,New Zealand,536031
+2003,Brisbane,Auckland,New Zealand,530866
+2003,Sydney,Hong Kong,Hong Kong SAR,504054
+2003,Sydney,Christchurch,New Zealand,444022
+2004,Sydney,Auckland,New Zealand,1257738
+2004,Sydney,Singapore,Singapore,968301
+2004,Melbourne,Singapore,Singapore,727435
+2004,Perth,Singapore,Singapore,713170
+2004,Brisbane,Auckland,New Zealand,708828
+2004,Brisbane,Singapore,Singapore,627864
+2004,Melbourne,Auckland,New Zealand,627731
+2004,Sydney,Los Angeles,United States,622382
+2004,Sydney,Hong Kong,Hong Kong SAR,604986
+2004,Sydney,Christchurch,New Zealand,513781
+2005,Sydney,Auckland,New Zealand,1242633
+2005,Sydney,Singapore,Singapore,936773
+2005,Perth,Singapore,Singapore,805693
+2005,Melbourne,Singapore,Singapore,792898
+2005,Sydney,Hong Kong,Hong Kong SAR,779387
+2005,Brisbane,Auckland,New Zealand,772279
+2005,Brisbane,Singapore,Singapore,654097
+2005,Melbourne,Auckland,New Zealand,652711
+2005,Sydney,Los Angeles,United States,648205
+2005,Sydney,Christchurch,New Zealand,510892
+2006,Sydney,Auckland,New Zealand,1190630
+2006,Sydney,Singapore,Singapore,977456
+2006,Sydney,Hong Kong,Hong Kong SAR,868789
+2006,Melbourne,Singapore,Singapore,831338
+2006,Perth,Singapore,Singapore,818436
+2006,Brisbane,Auckland,New Zealand,764201
+2006,Brisbane,Singapore,Singapore,697100
+2006,Melbourne,Auckland,New Zealand,661491
+2006,Sydney,Los Angeles,United States,635517
+2006,Sydney,Bangkok,Thailand,551511
+2007,Sydney,Auckland,New Zealand,1231395
+2007,Sydney,Singapore,Singapore,999076
+2007,Perth,Singapore,Singapore,929257
+2007,Sydney,Hong Kong,Hong Kong SAR,904265
+2007,Melbourne,Singapore,Singapore,838060
+2007,Brisbane,Auckland,New Zealand,814859
+2007,Melbourne,Auckland,New Zealand,703323
+2007,Brisbane,Singapore,Singapore,680320
+2007,Sydney,Bangkok,Thailand,626129
+2007,Sydney,Los Angeles,United States,598198
+2008,Sydney,Auckland,New Zealand,1225576
+2008,Sydney,Singapore,Singapore,1084990
+2008,Perth,Singapore,Singapore,956318
+2008,Sydney,Hong Kong,Hong Kong SAR,915172
+2008,Melbourne,Singapore,Singapore,867986
+2008,Brisbane,Auckland,New Zealand,826870
+2008,Brisbane,Singapore,Singapore,743133
+2008,Melbourne,Auckland,New Zealand,710662
+2008,Sydney,Bangkok,Thailand,637679
+2008,Sydney,Christchurch,New Zealand,541545
+2009,Sydney,Auckland,New Zealand,1324776
+2009,Sydney,Singapore,Singapore,1047563
+2009,Sydney,Hong Kong,Hong Kong SAR,925934
+2009,Perth,Singapore,Singapore,925730
+2009,Melbourne,Singapore,Singapore,874617
+2009,Brisbane,Auckland,New Zealand,777982
+2009,Melbourne,Auckland,New Zealand,759476
+2009,Sydney,Los Angeles,United States,730350
+2009,Brisbane,Singapore,Singapore,685676
+2009,Sydney,Bangkok,Thailand,600455
+2010,Sydney,Auckland,New Zealand,1413704
+2010,Sydney,Singapore,Singapore,1093138
+2010,Sydney,Hong Kong,Hong Kong SAR,948251
+2010,Melbourne,Singapore,Singapore,925650
+2010,Sydney,Los Angeles,United States,915247
+2010,Perth,Singapore,Singapore,909789
+2010,Melbourne,Auckland,New Zealand,794107
+2010,Perth,Denpasar,Indonesia,729280
+2010,Melbourne,Kuala Lumpur,Malaysia,708323
+2010,Brisbane,Auckland,New Zealand,707893
+2011,Sydney,Auckland,New Zealand,1403299
+2011,Sydney,Singapore,Singapore,1131780
+2011,Melbourne,Singapore,Singapore,1062995
+2011,Perth,Singapore,Singapore,965513
+2011,Sydney,Hong Kong,Hong Kong SAR,939293
+2011,Sydney,Los Angeles,United States,937395
+2011,Melbourne,Auckland,New Zealand,901246
+2011,Perth,Denpasar,Indonesia,806233
+2011,Brisbane,Auckland,New Zealand,794141
+2011,Brisbane,Singapore,Singapore,718594
+2012,Sydney,Auckland,New Zealand,1365164
+2012,Sydney,Singapore,Singapore,1271410
+2012,Melbourne,Singapore,Singapore,1064277
+2012,Perth,Singapore,Singapore,1013007
+2012,Sydney,Hong Kong,Hong Kong SAR,943037
+2012,Melbourne,Auckland,New Zealand,935400
+2012,Sydney,Los Angeles,United States,879391
+2012,Perth,Denpasar,Indonesia,849201
+2012,Brisbane,Auckland,New Zealand,829806
+2012,Brisbane,Singapore,Singapore,802124
+2013,Sydney,Auckland,New Zealand,1429839
+2013,Sydney,Singapore,Singapore,1358395
+2013,Melbourne,Singapore,Singapore,1094534
+2013,Perth,Singapore,Singapore,1010539
+2013,Melbourne,Auckland,New Zealand,984954
+2013,Sydney,Hong Kong,Hong Kong SAR,927354
+2013,Sydney,Los Angeles,United States,903367
+2013,Brisbane,Auckland,New Zealand,871033
+2013,Perth,Denpasar,Indonesia,856694
+2013,Brisbane,Singapore,Singapore,807277
+2014,Sydney,Auckland,New Zealand,1483183
+2014,Sydney,Singapore,Singapore,1363727
+2014,Melbourne,Singapore,Singapore,1146575
+2014,Perth,Singapore,Singapore,1047892
+2014,Melbourne,Auckland,New Zealand,1040922
+2014,Sydney,Hong Kong,Hong Kong SAR,925337
+2014,Perth,Denpasar,Indonesia,913399
+2014,Brisbane,Auckland,New Zealand,913165
+2014,Melbourne,Kuala Lumpur,Malaysia,899054
+2014,Sydney,Los Angeles,United States,895393
+2015,Sydney,Auckland,New Zealand,1540790
+2015,Sydney,Singapore,Singapore,1461382
+2015,Melbourne,Singapore,Singapore,1214169
+2015,Melbourne,Auckland,New Zealand,1149693
+2015,Perth,Singapore,Singapore,1061213
+2015,Sydney,Hong Kong,Hong Kong SAR,993075
+2015,Brisbane,Auckland,New Zealand,968140
+2015,Sydney,Los Angeles,United States,909663
+2015,Perth,Denpasar,Indonesia,857009
+2015,Melbourne,Kuala Lumpur,Malaysia,825195
+2016,Sydney,Auckland,New Zealand,1604944
+2016,Sydney,Singapore,Singapore,1455015
+2016,Melbourne,Singapore,Singapore,1362099
+2016,Melbourne,Auckland,New Zealand,1193283
+2016,Perth,Singapore,Singapore,1124742
+2016,Sydney,Hong Kong,Hong Kong SAR,1075353
+2016,Brisbane,Auckland,New Zealand,964067
+2016,Sydney,Los Angeles,United States,906403
+2016,Perth,Denpasar,Indonesia,896951
+2016,Melbourne,Kuala Lumpur,Malaysia,828845
+2017,Sydney,Auckland,New Zealand,1579904
+2017,Sydney,Singapore,Singapore,1485919
+2017,Melbourne,Singapore,Singapore,1420841
+2017,Melbourne,Auckland,New Zealand,1229495
+2017,Perth,Singapore,Singapore,1154838
+2017,Sydney,Hong Kong,Hong Kong SAR,1075624
+2017,Brisbane,Auckland,New Zealand,970776
+2017,Sydney,Los Angeles,United States,887004
+2017,Perth,Denpasar,Indonesia,834897
+2017,Brisbane,Singapore,Singapore,823139
+2018,Sydney,Auckland,New Zealand,1556816
+2018,Melbourne,Singapore,Singapore,1545311
+2018,Sydney,Singapore,Singapore,1520882
+2018,Melbourne,Auckland,New Zealand,1254977
+2018,Sydney,Hong Kong,Hong Kong SAR,1149236
+2018,Perth,Singapore,Singapore,1120855
+2018,Brisbane,Auckland,New Zealand,952865
+2018,Perth,Denpasar,Indonesia,889007
+2018,Sydney,Los Angeles,United States,859610
+2018,Brisbane,Singapore,Singapore,852842
