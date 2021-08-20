@@ -28,12 +28,15 @@ Data Sources:
 
 The source of this dataset comes from the Australian Government's data.gov.au website, and also from The World Bank. 
 
-source(1) 
+source (1) 
 https://data.gov.au/data/dataset/international-airlines-traffic-by-city-pairs/resource/ebcafd83-9514-4f72-a995-fe7ee90cb9da?view_id=4ad7311e-83a6-49fb-a9f6-9a7215000b30
 
-source(2)
+source (2)
 https://data.worldbank.org/country/AU
 https://api.worldbank.org/v2/en/country/AUS?downloadformat=csv
+
+Source (3)
+http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD
 
 Known Issues and Challenges:
 
